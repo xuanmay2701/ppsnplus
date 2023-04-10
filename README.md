@@ -1,2 +1,2 @@
-# ppsnplus
+# ppsn++
 PPSN++
